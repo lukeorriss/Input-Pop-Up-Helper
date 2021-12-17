@@ -5,6 +5,9 @@ Well, exactly what it says on the tin. An easy way to add a notification like po
 **Why?**
 Sometimes user's might not know what to type into the field. Especially, if the field is expecting specific data, or there is no room for more information regarding the input area. 
 
+**Requirements**
+The only thing this function requires is jQuery (tested on v3.6)
+
 **How do I use it?**
 That's easy. Include the script inside the HTML header (or body). 
 ``<script src="inputpopup.js"> </script>``
